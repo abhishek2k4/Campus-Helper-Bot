@@ -1,0 +1,133 @@
+{
+  "college": "BIT",
+  "academicYear": "2026-2027",
+  "admissionMode": "Merit Based + Counseling",
+  "gradingSystem": "Percentage",
+  "departments": {
+    "CSE": {
+      "degree": "B.Tech",
+      "totalIntake": 120,
+      "demandLevel": "Very High",
+      "cutoff": {
+        "round1": {
+          "general": { "minPercentage": 94, "closingRank": 320 },
+          "obc": { "minPercentage": 90, "closingRank": 610 },
+          "sc": { "minPercentage": 78, "closingRank": 1400 },
+          "st": { "minPercentage": 75, "closingRank": 1700 }
+        },
+        "round2": {
+          "general": { "minPercentage": 92, "closingRank": 480 },
+          "obc": { "minPercentage": 88, "closingRank": 820 },
+          "sc": { "minPercentage": 76, "closingRank": 1600 },
+          "st": { "minPercentage": 73, "closingRank": 1900 }
+        }
+      },
+      "lastYearTrend": {
+        "2024": 90,
+        "2025": 91,
+        "2026": 92
+      },
+      "remarks": "Highest placement ratio, closes admissions first every year"
+    },
+
+    "IT": {
+      "degree": "B.Tech",
+      "totalIntake": 90,
+      "demandLevel": "High",
+      "cutoff": {
+        "round1": {
+          "general": { "minPercentage": 92 },
+          "obc": { "minPercentage": 88 },
+          "sc": { "minPercentage": 75 },
+          "st": { "minPercentage": 72 }
+        },
+        "round2": {
+          "general": { "minPercentage": 90 },
+          "obc": { "minPercentage": 85 },
+          "sc": { "minPercentage": 73 },
+          "st": { "minPercentage": 70 }
+        }
+      },
+      "lastYearTrend": {
+        "2024": 88,
+        "2025": 89,
+        "2026": 90
+      },
+      "remarks": "Strong overlap with CSE placements, closes slightly later"
+    },
+
+    "ECE": {
+      "degree": "B.Tech",
+      "totalIntake": 60,
+      "demandLevel": "Medium",
+      "cutoff": {
+        "round1": {
+          "general": { "minPercentage": 88 },
+          "obc": { "minPercentage": 83 },
+          "sc": { "minPercentage": 70 },
+          "st": { "minPercentage": 68 }
+        },
+        "round2": {
+          "general": { "minPercentage": 85 },
+          "obc": { "minPercentage": 80 },
+          "sc": { "minPercentage": 68 },
+          "st": { "minPercentage": 65 }
+        }
+      },
+      "lastYearTrend": {
+        "2024": 87,
+        "2025": 86,
+        "2026": 85
+      },
+      "remarks": "Core electronics focus, fewer IT-sector placements"
+    },
+
+    "MCA": {
+      "degree": "Postgraduate",
+      "totalIntake": 60,
+      "eligibility": "Graduation with Mathematics",
+      "entranceExam": "College Level / State Level",
+      "cutoff": {
+        "round1": {
+          "general": 80,
+          "obc": 74,
+          "sc": 62,
+          "st": 60
+        },
+        "round2": {
+          "general": 78,
+          "obc": 72,
+          "sc": 60,
+          "st": 58
+        }
+      },
+      "remarks": "Final cutoff depends on entrance score + graduation marks"
+    },
+
+    "MBA": {
+      "degree": "Postgraduate",
+      "totalIntake": 120,
+      "eligibility": "Any Graduation + Entrance Test",
+      "selectionProcess": [
+        "Entrance Score",
+        "Graduation Marks",
+        "Personal Interview"
+      ],
+      "cutoff": {
+        "round1": {
+          "general": 72,
+          "obc": 68,
+          "sc": 56,
+          "st": 54
+        },
+        "round2": {
+          "general": 70,
+          "obc": 65,
+          "sc": 55,
+          "st": 52
+        }
+      },
+      "remarks": "Interview performance can significantly affect final admission"
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "lastUpdated": "2025-26 Academic Year",
+  "paymentModes": ["Cash at Accounts Office", "Online via College Portal", "DD in favour of BIT Durg"],
+  "accountsOffice": { "room": "Room 103, Admin Block", "phone": "9876543216", "timings": "10 AM – 3 PM (Mon–Sat)" },
+  "branches": {
+    "CSE": {
+      "tuitionFee": "₹75,000/year",
+      "developmentFee": "₹10,000/year",
+      "examFee": "₹3,000/semester",
+      "libraryFee": "₹2,000/year",
+      "labFee": "₹5,000/year",
+      "totalPerYear": "₹95,000 (approx.)",
+      "totalCourse": "₹3,80,000 (4 years)"
+    },
+    "IT": {
+      "tuitionFee": "₹70,000/year",
+      "developmentFee": "₹10,000/year",
+      "examFee": "₹3,000/semester",
+      "libraryFee": "₹2,000/year",
+      "labFee": "₹5,000/year",
+      "totalPerYear": "₹90,000 (approx.)",
+      "totalCourse": "₹3,60,000 (4 years)"
+    },
+    "ECE": {
+      "tuitionFee": "₹70,000/year",
+      "developmentFee": "₹10,000/year",
+      "examFee": "₹3,000/semester",
+      "libraryFee": "₹2,000/year",
+      "labFee": "₹6,000/year",
+      "totalPerYear": "₹91,000 (approx.)",
+      "totalCourse": "₹3,64,000 (4 years)"
+    },
+    "ME": {
+      "tuitionFee": "₹65,000/year",
+      "developmentFee": "₹10,000/year",
+      "examFee": "₹3,000/semester",
+      "libraryFee": "₹2,000/year",
+      "labFee": "₹7,000/year",
+      "totalPerYear": "₹87,000 (approx.)",
+      "totalCourse": "₹3,48,000 (4 years)"
+    },
+    "MCA": {
+      "tuitionFee": "₹55,000/year",
+      "developmentFee": "₹8,000/year",
+      "examFee": "₹3,000/semester",
+      "libraryFee": "₹2,000/year",
+      "labFee": "₹4,000/year",
+      "totalPerYear": "₹72,000 (approx.)",
+      "totalCourse": "₹1,44,000 (2 years)"
+    },
+    "MBA": {
+      "tuitionFee": "₹60,000/year",
+      "developmentFee": "₹8,000/year",
+      "examFee": "₹3,000/semester",
+      "libraryFee": "₹2,000/year",
+      "totalPerYear": "₹73,000 (approx.)",
+      "totalCourse": "₹1,46,000 (2 years)"
+    }
+  },
+  "hostelFees": {
+    "boysDoubleSharing": "₹3,500/month + ₹2,500 mess = ₹6,000/month",
+    "boysTripleSharing": "₹2,800/month + ₹2,500 mess = ₹5,300/month",
+    "girlsDoubleSharing": "₹4,000/month + ₹2,500 mess = ₹6,500/month",
+    "girlsTripleSharing": "₹3,200/month + ₹2,500 mess = ₹5,700/month",
+    "securityDeposit": "₹5,000 (refundable)"
+  },
+  "scholarships": {
+    "meritScholarship": "25% fee waiver for students with 85%+ in 12th/graduation",
+    "scStScholarship": "State government scholarship covers full tuition for SC/ST students",
+    "obcScholarship": "Post-matric scholarship available for OBC students",
+    "minorityScholarship": "Available for eligible minority students",
+    "sportsQuota": "Fee concession for state/national level sports achievers",
+    "applicationDeadline": "28 February 2026",
+    "contact": "scholarship@bitdurg.ac.in"
+  },
+  "lateFee": "₹50/day after due date",
+  "currentDeadline": "5 March 2026",
+  "importantNote": "Fee structure may be revised each year. Always verify with the accounts office before payment."
+}

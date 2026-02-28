@@ -1,0 +1,54 @@
+{
+  "info": "Assignment deadlines are set by respective faculty. Always check with your faculty or class representative for exact due dates.",
+  "generalRules": [
+    "Assignments must be handwritten unless specified otherwise",
+    "Submission is mandatory — 0 marks for non-submission",
+    "Late submissions are penalized (typically 50% marks deducted)",
+    "Plagiarism results in cancellation of assignment marks",
+    "Minimum 2 assignments per subject per semester"
+  ],
+  "submissionProcess": "Submit physical copies to the respective faculty during class or at their cabin. Digital submissions via college portal where specified.",
+  "byBranch": {
+    "CSE": {
+      "currentAssignments": [
+        { "subject": "DBMS", "topic": "Normalization & SQL Queries", "faculty": "Prof. Priya Sharma", "dueDate": "28 February 2026", "sem": 3 },
+        { "subject": "Operating Systems", "topic": "Process Scheduling Algorithms", "faculty": "Prof. Amit Verma", "dueDate": "3 March 2026", "sem": 3 },
+        { "subject": "Web Development", "topic": "Build a Responsive Portfolio Website", "faculty": "Prof. Sneha Patel", "dueDate": "5 March 2026", "sem": 4 },
+        { "subject": "Algorithms", "topic": "Sorting & Searching Analysis", "faculty": "Prof. Rohit Mishra", "dueDate": "1 March 2026", "sem": 4 }
+      ]
+    },
+    "IT": {
+      "currentAssignments": [
+        { "subject": "Cloud Computing", "topic": "AWS S3 & EC2 Setup Report", "faculty": "Prof. Neha Joshi", "dueDate": "27 February 2026", "sem": 4 },
+        { "subject": "Cybersecurity", "topic": "Network Vulnerability Assessment", "faculty": "Prof. Vikram Singh", "dueDate": "4 March 2026", "sem": 4 },
+        { "subject": "Software Testing", "topic": "Test Case Design for an App", "faculty": "Prof. Deepak Rao", "dueDate": "6 March 2026", "sem": 4 }
+      ]
+    },
+    "ECE": {
+      "currentAssignments": [
+        { "subject": "Communication Systems", "topic": "AM & FM Modulation Analysis", "faculty": "Prof. Kavita Gupta", "dueDate": "28 February 2026", "sem": 4 },
+        { "subject": "Microprocessors", "topic": "8085 Assembly Language Programs", "faculty": "Prof. Suresh Nair", "dueDate": "3 March 2026", "sem": 4 },
+        { "subject": "VLSI Design", "topic": "CMOS Circuit Design", "faculty": "Dr. Anil Tiwari", "dueDate": "7 March 2026", "sem": 4 }
+      ]
+    },
+    "ME": {
+      "currentAssignments": [
+        { "subject": "Heat Transfer", "topic": "Conduction & Convection Problems", "faculty": "Prof. Dinesh Sharma", "dueDate": "1 March 2026", "sem": 4 },
+        { "subject": "Machine Design", "topic": "Shaft & Bearing Design", "faculty": "Prof. Rajeev Tiwari", "dueDate": "5 March 2026", "sem": 4 }
+      ]
+    },
+    "MCA": {
+      "currentAssignments": [
+        { "subject": "Python Programming", "topic": "Build a Simple REST API", "faculty": "Prof. Ritu Chaudhary", "dueDate": "2 March 2026", "sem": 3 },
+        { "subject": "Machine Learning", "topic": "Linear Regression Implementation", "faculty": "Dr. Pooja Saxena", "dueDate": "6 March 2026", "sem": 3 }
+      ]
+    },
+    "MBA": {
+      "currentAssignments": [
+        { "subject": "Marketing Management", "topic": "Case Study: Product Launch Strategy", "faculty": "Dr. Sanjay Mehta", "dueDate": "28 February 2026", "sem": 2 },
+        { "subject": "Financial Management", "topic": "Ratio Analysis of a Listed Company", "faculty": "Prof. Anita Desai", "dueDate": "4 March 2026", "sem": 2 }
+      ]
+    }
+  },
+  "contact": "For assignment extensions or queries, contact your respective faculty directly at their cabin."
+}

@@ -1,0 +1,71 @@
+{
+  "NCC": {
+    "fullName": "National Cadet Corps",
+    "unit": "7 CG BN NCC, Durg",
+    "wing": "Army Wing",
+    "officer": "Lt. Col. Arvind Pandey (Associate NCC Officer)",
+    "totalStrength": 120,
+    "office": "Room 108, Admin Block",
+    "contact": "ncc@bitdurg.ac.in",
+    "phone": "9876543220",
+    "meetingDay": "Every Wednesday and Saturday",
+    "meetingTime": "5:00 PM – 7:00 PM",
+    "meetingVenue": "College Ground / NCC Room",
+    "eligibility": "Any student in 1st or 2nd year can join. Physical fitness test required.",
+    "certificates": {
+      "A": "After 1 year — basic training and camp attendance",
+      "B": "After 2 years — advance training required",
+      "C": "After 3 years — Republic Day/Independence Day camp preferred"
+    },
+    "benefits": [
+      "NCC 'C' certificate holders get preference in government jobs",
+      "Extra marks in some state government exams",
+      "Personality development and leadership training",
+      "Participation in national level camps (Delhi, Pune)",
+      "Adventure activities — trekking, shooting, mountaineering"
+    ],
+    "recentAchievements": [
+      "3 cadets selected for Republic Day Parade 2025, Delhi",
+      "Best NCC Unit award in state-level review 2024",
+      "10 cadets participated in National Integration Camp, Goa 2024"
+    ],
+    "annualCamps": ["Annual Training Camp (ATC)", "Combined Annual Training Camp (CATC)", "Republic Day/Independence Day Camp", "National Integration Camp (NIC)"]
+  },
+  "NSS": {
+    "fullName": "National Service Scheme",
+    "programOfficer": "Prof. Ravi Kumar Sharma",
+    "totalVolunteers": 200,
+    "office": "Room 108, Admin Block",
+    "contact": "nss@bitdurg.ac.in",
+    "phone": "9876543221",
+    "meetingDay": "Every Friday",
+    "meetingTime": "4:00 PM – 6:00 PM",
+    "eligibility": "Any student can join. Priority to 1st and 2nd year students.",
+    "activities": [
+      "Blood donation camps",
+      "Tree plantation drives",
+      "Village adoption and development programs",
+      "Swachh Bharat Abhiyan participation",
+      "Health awareness campaigns",
+      "Annual Special Camp (7-day residential camp in adopted village)"
+    ],
+    "benefits": [
+      "NSS certificate adds value to resume",
+      "Special NSS quota in some government jobs",
+      "240 hours of social service certificate",
+      "Opportunity to attend national/state level events",
+      "Leadership and community service experience"
+    ],
+    "recentAchievements": [
+      "Organized blood donation camp — collected 150 units in 2025",
+      "Planted 500 trees in Durg district — Green Campus Drive 2024",
+      "Best NSS Unit in Chhattisgarh — Regional Award 2024",
+      "20 volunteers participated in National NSS Camp, Bhopal 2024"
+    ],
+    "annualSpecialCamp": {
+      "duration": "7 days",
+      "location": "Adopted village near Durg",
+      "activities": ["Health checkup camps", "Literacy programs", "Infrastructure development", "Cultural programs for villagers"]
+    }
+  }
+}

@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "date": "22 Feb 2026",
+    "title": "Mid-Sem Exam Schedule Released",
+    "body": "Mid-semester examinations will commence from 10 March 2026. Detailed date sheets are available on the college portal and department notice boards.",
+    "branch": "all",
+    "priority": "high"
+  },
+  {
+    "id": 2,
+    "date": "21 Feb 2026",
+    "title": "Fee Submission Deadline",
+    "body": "Last date for fee submission is 5 March 2026. A late fee penalty of Rs. 50/day will be applicable after the due date. Pay at the accounts office or online via the college portal.",
+    "branch": "all",
+    "priority": "high"
+  },
+  {
+    "id": 3,
+    "date": "20 Feb 2026",
+    "title": "Annual College Fest — Registrations Open",
+    "body": "Registrations for the Annual College Fest 2026 are now open. Last date to register is 28 February. Visit the Student Affairs office or register online.",
+    "branch": "all",
+    "priority": "medium"
+  },
+  {
+    "id": 4,
+    "date": "19 Feb 2026",
+    "title": "Scholarship Forms Available",
+    "body": "Scholarship application forms are available at the admin office. Eligibility: 60%+ marks in previous semester. Last date for submission: 28 February 2026.",
+    "branch": "all",
+    "priority": "medium"
+  },
+  {
+    "id": 5,
+    "date": "18 Feb 2026",
+    "title": "TCS Campus Drive — CSE & IT",
+    "body": "TCS will be conducting a campus recruitment drive on 5 March 2026. Eligible branches: CSE and IT. Register at the placement cell by 1 March.",
+    "branch": "CSE,IT",
+    "priority": "high"
+  },
+  {
+    "id": 6,
+    "date": "17 Feb 2026",
+    "title": "Guest Lecture — AI & Machine Learning",
+    "body": "A guest lecture on AI and Machine Learning will be held on 25 February 2026 in the Seminar Hall at 10 AM. All CSE, IT, and MCA students are encouraged to attend.",
+    "branch": "CSE,IT,MCA",
+    "priority": "medium"
+  },
+  {
+    "id": 7,
+    "date": "16 Feb 2026",
+    "title": "Library Book Return Reminder",
+    "body": "Students with overdue books are requested to return them by 28 February to avoid fines. Check your due dates on the library portal.",
+    "branch": "all",
+    "priority": "low"
+  },
+  {
+    "id": 8,
+    "date": "15 Feb 2026",
+    "title": "Sports Day — Registration Open",
+    "body": "Annual Sports Day will be held on 10 March 2026. Register for events (cricket, basketball, athletics, badminton) at the sports office by 5 March.",
+    "branch": "all",
+    "priority": "low"
+  }
+]

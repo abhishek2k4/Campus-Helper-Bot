@@ -1,0 +1,60 @@
+{
+  "name": "Central Library, BIT Durg",
+  "location": "Ground Floor, Academic Block",
+  "librarian": "Mr. Prakash Tiwari",
+  "contact": "library@bitdurg.ac.in",
+  "phone": "9876543217",
+  "timings": {
+    "weekdays": "9:00 AM – 7:00 PM",
+    "saturday": "10:00 AM – 4:00 PM",
+    "sunday": "Closed",
+    "examSeason": "8:00 AM – 9:00 PM (extended during exams)"
+  },
+  "collection": {
+    "totalBooks": "45,000+",
+    "journals": "120+ national and international journals",
+    "eBooks": "5,000+ via DELNET and NDLI",
+    "magazines": "25 magazines and newspapers daily",
+    "cdDVD": "500+ reference CDs/DVDs"
+  },
+  "membership": {
+    "students": {
+      "booksAllowed": 3,
+      "issuePeriod": "14 days",
+      "renewals": "1 renewal allowed",
+      "fine": "₹2/day per book after due date"
+    },
+    "faculty": {
+      "booksAllowed": 10,
+      "issuePeriod": "30 days",
+      "fine": "₹1/day per book after due date"
+    }
+  },
+  "digitalResources": [
+    { "name": "DELNET", "description": "National digital library network with access to thousands of eBooks" },
+    { "name": "NDLI", "url": "ndl.iitkgp.ac.in", "description": "National Digital Library of India — free access to millions of resources" },
+    { "name": "NPTEL eBooks", "description": "Engineering video lectures and study material" },
+    { "name": "Shodhganga", "description": "Repository of Indian theses and dissertations" },
+    { "name": "J-GATE", "description": "Access to engineering and science journals" }
+  ],
+  "sections": [
+    { "name": "Circulation Section", "description": "Book issue and return counter" },
+    { "name": "Reading Room", "capacity": 100, "description": "Quiet study space. Open till 9 PM during exams." },
+    { "name": "Reference Section", "description": "Reference books, encyclopedias — cannot be issued, in-library use only" },
+    { "name": "Periodical Section", "description": "Journals, magazines, newspapers" },
+    { "name": "Digital Corner", "seats": 20, "description": "Computer terminals with internet for digital library access" },
+    { "name": "Project Report Section", "description": "Final year project reports from all departments (2010–2024)" }
+  ],
+  "rules": [
+    "Library card is mandatory for book issue",
+    "Maintain silence inside the library",
+    "Mobile phones must be on silent mode",
+    "Food and drinks are strictly not allowed",
+    "Books must be handled carefully — damage charges apply",
+    "Reference books cannot be taken outside",
+    "Bags must be deposited at the bag counter",
+    "Lost books must be replaced with a new copy or pay double the price"
+  ],
+  "newArrivals": "New books are added every semester. Check the Notice Board at library entrance for new arrivals list.",
+  "suggestion": "Book suggestions can be submitted at the librarian's counter or via library@bitdurg.ac.in"
+}

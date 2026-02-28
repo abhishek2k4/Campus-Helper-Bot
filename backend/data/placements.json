@@ -1,0 +1,55 @@
+{
+  "stats": {
+    "totalPlaced": 245,
+    "companiesVisited": 38,
+    "highestPackage": "18 LPA",
+    "averagePackage": "6.5 LPA",
+    "year": "2025"
+  },
+  "contact": {
+    "location": "Room 203, Admin Block",
+    "email": "placement@college.edu",
+    "phone": "9876543214",
+    "coordinator": "Prof. Arvind Sharma",
+    "timings": "10 AM – 5 PM (Mon–Fri)"
+  },
+  "upcomingDrives": [
+    {
+      "company": "TCS",
+      "date": "5 March 2026",
+      "registerBy": "1 March 2026",
+      "eligibleBranches": ["CSE", "IT"],
+      "package": "3.5 – 7 LPA",
+      "role": "Software Engineer",
+      "criteria": "60%+ in 10th, 12th, and graduation. No active backlogs."
+    },
+    {
+      "company": "Infosys",
+      "date": "15 March 2026",
+      "registerBy": "10 March 2026",
+      "eligibleBranches": ["CSE", "IT", "ECE"],
+      "package": "4.5 – 9 LPA",
+      "role": "Systems Engineer",
+      "criteria": "65%+ throughout. No backlogs at time of interview."
+    },
+    {
+      "company": "Wipro",
+      "date": "22 March 2026",
+      "registerBy": "18 March 2026",
+      "eligibleBranches": ["CSE", "IT", "ECE", "MCA"],
+      "package": "3.5 – 6 LPA",
+      "role": "Project Engineer",
+      "criteria": "60%+ throughout. 1 active backlog allowed."
+    },
+    {
+      "company": "Deloitte",
+      "date": "2 April 2026",
+      "registerBy": "28 March 2026",
+      "eligibleBranches": ["MBA"],
+      "package": "8 – 14 LPA",
+      "role": "Business Analyst",
+      "criteria": "65%+ throughout. MBA with Finance or Marketing specialization preferred."
+    }
+  ],
+  "topRecruiters": ["TCS", "Infosys", "Wipro", "Accenture", "Capgemini", "HCL", "Tech Mahindra", "L&T Infotech", "Deloitte", "KPMG"]
+}

@@ -1,0 +1,112 @@
+{
+  "info": "BIT Durg has produced talented engineers and managers placed at top companies across India and abroad.",
+  "totalAlumni": "12,000+",
+  "alumniAssociation": {
+    "name": "BIT Durg Alumni Association",
+    "contact": "alumni@bitdurg.ac.in",
+    "linkedinGroup": "BIT Durg Alumni Network"
+  },
+  "notable": [
+    {
+      "name": "Rahul Sharma",
+      "branch": "CSE",
+      "passoutYear": 2018,
+      "company": "Google",
+      "role": "Senior Software Engineer",
+      "location": "Bangalore",
+      "package": "45 LPA",
+      "message": "BIT Durg gave me the foundation to crack Google. Focus on DSA and never stop building things."
+    },
+    {
+      "name": "Priya Agrawal",
+      "branch": "CSE",
+      "passoutYear": 2019,
+      "company": "Microsoft",
+      "role": "Software Development Engineer II",
+      "location": "Hyderabad",
+      "package": "38 LPA",
+      "message": "The competitive environment at BIT Durg pushed me to work harder every day."
+    },
+    {
+      "name": "Ankit Verma",
+      "branch": "IT",
+      "passoutYear": 2020,
+      "company": "Amazon",
+      "role": "Cloud Solutions Architect",
+      "location": "Pune",
+      "package": "32 LPA",
+      "message": "Cloud computing is the future. Start early, get certified, and build projects."
+    },
+    {
+      "name": "Deepika Sahu",
+      "branch": "ECE",
+      "passoutYear": 2017,
+      "company": "Qualcomm",
+      "role": "VLSI Design Engineer",
+      "location": "Hyderabad",
+      "package": "28 LPA",
+      "message": "ECE from BIT Durg opened doors I never imagined. The lab exposure was incredible."
+    },
+    {
+      "name": "Suresh Patel",
+      "branch": "ME",
+      "passoutYear": 2016,
+      "company": "Tata Motors",
+      "role": "Senior Design Engineer",
+      "location": "Pune",
+      "package": "18 LPA",
+      "message": "Mechanical engineering at BIT gave me real-world problem solving skills."
+    },
+    {
+      "name": "Neha Pandey",
+      "branch": "MCA",
+      "passoutYear": 2021,
+      "company": "Infosys",
+      "role": "Technical Lead",
+      "location": "Bangalore",
+      "package": "22 LPA",
+      "message": "MCA from BIT helped me transition into software development. Never underestimate a postgraduate degree."
+    },
+    {
+      "name": "Vikram Gupta",
+      "branch": "MBA",
+      "passoutYear": 2019,
+      "company": "Deloitte",
+      "role": "Senior Business Analyst",
+      "location": "Mumbai",
+      "package": "24 LPA",
+      "message": "The case studies and industry exposure during MBA at BIT prepared me for consulting."
+    },
+    {
+      "name": "Aisha Khan",
+      "branch": "CSE",
+      "passoutYear": 2022,
+      "company": "Flipkart",
+      "role": "Software Engineer",
+      "location": "Bangalore",
+      "package": "20 LPA",
+      "message": "Campus placements at BIT are competitive. Use your 4 years wisely."
+    },
+    {
+      "name": "Rohan Mishra",
+      "branch": "IT",
+      "passoutYear": 2021,
+      "company": "Accenture",
+      "role": "DevOps Engineer",
+      "location": "Pune",
+      "package": "16 LPA",
+      "message": "Learn DevOps and cloud early. They are the most in-demand skills right now."
+    },
+    {
+      "name": "Kavita Dewangan",
+      "branch": "CSE",
+      "passoutYear": 2023,
+      "company": "TCS (Research & Innovation)",
+      "role": "AI Engineer",
+      "location": "Chennai",
+      "package": "14 LPA",
+      "message": "AI and ML are the future. Start with Python, build projects, and apply early."
+    }
+  ],
+  "topRecruiters": ["Google", "Microsoft", "Amazon", "Flipkart", "Infosys", "TCS", "Wipro", "Accenture", "Capgemini", "Deloitte", "Qualcomm", "Tata Motors", "HCL", "Tech Mahindra"]
+}

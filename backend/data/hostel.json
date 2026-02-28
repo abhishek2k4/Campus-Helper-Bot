@@ -1,0 +1,72 @@
+{
+  "boysHostel": {
+    "blocks": ["Block A", "Block B"],
+    "totalRooms": 150,
+    "capacity": 450,
+    "warden": "Mr. Suresh Kumar Yadav",
+    "wardenContact": "9876543211",
+    "wardenOffice": "Block A, Ground Floor",
+    "wardenTimings": "9 AM – 6 PM",
+    "gateTimings": {
+      "open": "6:00 AM",
+      "close": "10:00 PM",
+      "lateEntryPermission": "Special permission from warden required after 10 PM"
+    },
+    "roomTypes": [
+      { "type": "Double Sharing", "rent": "₹3,500/month", "facilities": ["Bed", "Study Table", "Cupboard", "Fan", "WiFi"] },
+      { "type": "Triple Sharing", "rent": "₹2,800/month", "facilities": ["Bed", "Study Table", "Cupboard", "Fan", "WiFi"] }
+    ],
+    "facilities": ["24/7 Security", "WiFi", "Common Room with TV", "Indoor games", "Laundry room", "RO Water", "Power backup"]
+  },
+  "girlsHostel": {
+    "blocks": ["Block C"],
+    "totalRooms": 80,
+    "capacity": 200,
+    "warden": "Mrs. Rekha Sharma",
+    "wardenContact": "9876543215",
+    "wardenOffice": "Block C, Ground Floor",
+    "wardenTimings": "9 AM – 6 PM",
+    "gateTimings": {
+      "open": "6:00 AM",
+      "close": "9:00 PM",
+      "lateEntryPermission": "Special permission from warden required after 9 PM"
+    },
+    "roomTypes": [
+      { "type": "Double Sharing", "rent": "₹4,000/month", "facilities": ["Bed", "Study Table", "Cupboard", "Fan", "WiFi", "Attached Bathroom"] },
+      { "type": "Triple Sharing", "rent": "₹3,200/month", "facilities": ["Bed", "Study Table", "Cupboard", "Fan", "WiFi"] }
+    ],
+    "facilities": ["24/7 Security", "CCTV Surveillance", "WiFi", "Common Room with TV", "Indoor games", "RO Water", "Power backup", "Separate visitor room"]
+  },
+  "mess": {
+    "timings": {
+      "Breakfast": "7:00 AM – 9:00 AM",
+      "Lunch": "12:00 PM – 2:00 PM",
+      "Snacks": "5:00 PM – 6:00 PM",
+      "Dinner": "7:00 PM – 9:00 PM"
+    },
+    "monthlyFee": "₹2,500/month",
+    "menuHighlights": {
+      "Monday": "Dal Tadka, Rice, Roti, Sabzi, Salad",
+      "Tuesday": "Rajma, Rice, Puri, Aloo Sabzi",
+      "Wednesday": "Chole, Rice, Roti, Mixed Veg",
+      "Thursday": "Dal Fry, Rice, Roti, Paneer Sabzi",
+      "Friday": "Kadhi Chawal, Roti, Special Sabzi",
+      "Saturday": "Biryani/Pulao, Raita, Papad",
+      "Sunday": "Special Meal — Puri, Halwa, Dal, Rice, Kheer"
+    },
+    "complaints": "Mess complaint register available at the warden office"
+  },
+  "allotment": {
+    "process": "Fill hostel allotment form at admin office → Pay advance → Room assigned based on availability",
+    "contact": "hostel@bitdurg.ac.in",
+    "advancePayment": "₹5,000 refundable security deposit"
+  },
+  "rules": [
+    "Guests not allowed inside hostel rooms",
+    "Ragging is strictly prohibited — punishable by expulsion",
+    "Alcohol and smoking strictly banned",
+    "Maintain silence after 10 PM",
+    "Electrical appliances like heaters/irons not allowed",
+    "ID card must be carried at all times"
+  ]
+}

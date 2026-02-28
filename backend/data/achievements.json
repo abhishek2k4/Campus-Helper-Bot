@@ -1,0 +1,55 @@
+{
+  "collegeName": "Bhilai Institute of Technology, Durg",
+  "established": 1986,
+  "accreditation": {
+    "NAAC": "A+ Grade (2023)",
+    "NBA": "Accredited for CSE, IT, ECE, ME",
+    "AICTE": "Approved",
+    "affiliatedTo": "CSVTU (Chhattisgarh Swami Vivekanand Technical University)"
+  },
+  "rankings": {
+    "NIRF": "Ranked among Top 200 Engineering Colleges in India (2024)",
+    "StateRank": "#1 Private Engineering College in Chhattisgarh (2024)",
+    "OutlookIndia": "Top 50 Engineering Colleges in Central India"
+  },
+  "academicAchievements": [
+    { "year": 2024, "achievement": "Best Engineering College Award — Chhattisgarh State Government" },
+    { "year": 2024, "achievement": "15 students in GATE top 1000 ranks" },
+    { "year": 2024, "achievement": "3 students selected for IIT M.Tech programs" },
+    { "year": 2023, "achievement": "100% placement record for CSE batch 2023" },
+    { "year": 2023, "achievement": "NAAC A+ Grade reaccreditation" },
+    { "year": 2023, "achievement": "Research papers published in IEEE and Springer journals — 45 papers" },
+    { "year": 2022, "achievement": "Smart India Hackathon — 2 teams qualified for national finals" },
+    { "year": 2022, "achievement": "Best NCC Unit award in Chhattisgarh" },
+    { "year": 2021, "achievement": "NBA accreditation renewed for 6 years" }
+  ],
+  "researchAchievements": [
+    "45+ research papers published in IEEE, Springer, and Elsevier journals (2023–24)",
+    "3 patents filed by faculty in AI and embedded systems",
+    "Research collaboration with NIT Raipur and CSIR",
+    "DST-funded research project on renewable energy (2024)"
+  ],
+  "sportsAchievements": [
+    "Cricket team — Chhattisgarh Inter-University Champions 2024",
+    "Basketball team — Runner-up in State University Games 2023",
+    "Athletics — 5 gold medals in CSVTU Sports Meet 2024",
+    "Kabaddi team — State University Champions 2023"
+  ],
+  "culturalAchievements": [
+    "Best Cultural College — CSVTU Youth Festival 2024",
+    "1st prize in Inter-College Debate Competition — 2024",
+    "National Youth Parliament participation — 2023",
+    "Street play team — National award at Mood Indigo, IIT Bombay 2023"
+  ],
+  "technicalAchievements": [
+    "Smart India Hackathon 2024 — 2 teams in national finals",
+    "IEEE Student Branch — Best Chapter Award, Central India 2024",
+    "Robocon participation — 3 consecutive years",
+    "ISRO Space Settlement Design Competition — Regional finalists 2024"
+  ],
+  "placements": {
+    "2024": { "placed": 245, "companies": 38, "highest": "18 LPA", "average": "6.5 LPA" },
+    "2023": { "placed": 220, "companies": 34, "highest": "16 LPA", "average": "5.8 LPA" },
+    "2022": { "placed": 198, "companies": 28, "highest": "14 LPA", "average": "5.2 LPA" }
+  }
+}

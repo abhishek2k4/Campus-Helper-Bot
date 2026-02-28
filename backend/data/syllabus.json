@@ -1,0 +1,54 @@
+{
+  "CSE": {
+    "1": ["Mathematics-I", "Engineering Physics", "English Communication", "C Programming", "Engineering Drawing", "Physics Lab", "C Programming Lab"],
+    "2": ["Mathematics-II", "Data Structures", "Digital Electronics", "OOP with Java", "EVS", "Data Structures Lab", "Java Lab"],
+    "3": ["DBMS", "Operating Systems", "Computer Networks", "Discrete Mathematics", "Software Engineering", "DBMS Lab", "OS Lab"],
+    "4": ["Theory of Computation", "Computer Architecture", "Web Development", "Microprocessors", "Design & Analysis of Algorithms", "Web Dev Lab", "Microprocessor Lab"],
+    "5": ["Artificial Intelligence", "Machine Learning", "Compiler Design", "Information Security", "Elective-I", "AI Lab", "Mini Project"],
+    "6": ["Cloud Computing", "Big Data Analytics", "Internet of Things", "Mobile App Development", "Elective-II", "Project Work"],
+    "7": ["Deep Learning", "Blockchain Technology", "Elective-III", "Elective-IV", "Major Project Phase-I"],
+    "8": ["Major Project Phase-II", "Industrial Training", "Technical Seminar"]
+  },
+  "IT": {
+    "1": ["Mathematics-I", "Engineering Physics", "English Communication", "IT Fundamentals", "Engineering Drawing", "Physics Lab", "IT Lab"],
+    "2": ["Mathematics-II", "Data Structures", "Networking Basics", "OOP with Java", "EVS", "DS Lab", "Java Lab"],
+    "3": ["DBMS", "Linux Administration", "Web Technologies", "Statistics", "Software Engineering", "DBMS Lab", "Linux Lab"],
+    "4": ["Cloud Computing", "Cybersecurity", "Mobile App Dev", "Software Testing", "Network Security", "Mobile Lab", "Testing Lab"],
+    "5": ["DevOps", "Data Science", "UI/UX Design", "Elective-I", "Project Management", "DevOps Lab", "Mini Project"],
+    "6": ["Machine Learning", "API Development", "IT Infrastructure", "Elective-II", "Project Work"],
+    "7": ["AI Applications", "Elective-III", "Elective-IV", "Major Project Phase-I"],
+    "8": ["Major Project Phase-II", "Industrial Training", "Technical Seminar"]
+  },
+  "ECE": {
+    "1": ["Mathematics-I", "Engineering Physics", "English Communication", "Basic Electronics", "Engineering Drawing", "Physics Lab", "Electronics Lab"],
+    "2": ["Mathematics-II", "Circuit Theory", "Electronic Devices", "Programming in C", "EVS", "Circuit Lab", "C Lab"],
+    "3": ["Signals & Systems", "Analog Electronics", "Digital Electronics", "Electromagnetics", "Network Analysis", "Analog Lab", "Digital Lab"],
+    "4": ["Communication Systems", "Microprocessors", "VLSI Design", "Control Systems", "DSP", "Comm Lab", "VLSI Lab"],
+    "5": ["Embedded Systems", "Wireless Communication", "Antenna Theory", "Elective-I", "Embedded Lab", "Mini Project"],
+    "6": ["5G Networks", "IoT Systems", "Radar & Satellite", "Elective-II", "Project Work"],
+    "7": ["Advanced Communication", "Elective-III", "Elective-IV", "Major Project Phase-I"],
+    "8": ["Major Project Phase-II", "Industrial Training", "Technical Seminar"]
+  },
+  "ME": {
+    "1": ["Mathematics-I", "Engineering Physics", "English Communication", "Engineering Drawing", "Workshop Practice", "Physics Lab", "Workshop Lab"],
+    "2": ["Mathematics-II", "Engineering Mechanics", "Material Science", "Thermodynamics", "EVS", "Mechanics Lab", "Materials Lab"],
+    "3": ["Fluid Mechanics", "Manufacturing Processes", "Strength of Materials", "Theory of Machines", "Metrology", "Fluid Lab", "Manufacturing Lab"],
+    "4": ["Heat Transfer", "Machine Design", "CNC Technology", "Industrial Engineering", "CAD/CAM", "Heat Transfer Lab", "CAD Lab"],
+    "5": ["Automobile Engineering", "Robotics", "Finite Element Analysis", "Elective-I", "Automation Lab", "Mini Project"],
+    "6": ["Advanced Manufacturing", "Supply Chain Management", "Elective-II", "Project Work"],
+    "7": ["Elective-III", "Elective-IV", "Major Project Phase-I"],
+    "8": ["Major Project Phase-II", "Industrial Training", "Technical Seminar"]
+  },
+  "MCA": {
+    "1": ["Discrete Mathematics", "C++ Programming", "DBMS", "Software Engineering", "Computer Organization", "C++ Lab", "DBMS Lab"],
+    "2": ["Java Programming", "Computer Networks", "Operating Systems", "Web Technologies", "Statistics", "Java Lab", "Web Lab"],
+    "3": ["Python Programming", "Machine Learning", "Mobile App Dev", "Cloud Computing", "Elective-I", "Python Lab", "ML Lab"],
+    "4": ["Major Project", "Industrial Training", "Technical Seminar"]
+  },
+  "MBA": {
+    "1": ["Principles of Management", "Business Communication", "Managerial Economics", "Financial Accounting", "Organizational Behaviour", "Business Statistics"],
+    "2": ["Marketing Management", "Financial Management", "HRM", "Operations Management", "Business Research Methods", "Business Law"],
+    "3": ["Strategic Management", "Entrepreneurship", "Elective-I (Finance/Marketing/HR)", "Elective-II", "Summer Internship Report"],
+    "4": ["Major Project", "Business Ethics", "Elective-III", "Technical Seminar"]
+  }
+}

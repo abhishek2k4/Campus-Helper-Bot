@@ -1,0 +1,63 @@
+{
+  "info": "Notes and study materials are available through multiple sources. Digital notes are shared by faculty via the college portal and department drives.",
+  "sources": [
+    { "name": "College Portal", "url": "portal.bitdurg.ac.in", "description": "Official notes uploaded by faculty each semester" },
+    { "name": "Department Google Drive", "description": "Shared by class representatives. Ask your CR for the link." },
+    { "name": "Library (Physical)", "description": "Reference books and printed notes available at the library, Ground Floor, Academic Block" },
+    { "name": "NPTEL", "url": "nptel.ac.in", "description": "Free video lectures for all engineering subjects" },
+    { "name": "SWAYAM", "url": "swayam.gov.in", "description": "Government platform with free courses and notes" }
+  ],
+  "byBranch": {
+    "CSE": {
+      "popularSubjects": ["Data Structures", "DBMS", "OS", "Computer Networks", "Algorithms"],
+      "recommendedBooks": [
+        { "subject": "Data Structures", "book": "Data Structures Using C - Tanenbaum" },
+        { "subject": "DBMS", "book": "Database System Concepts - Silberschatz" },
+        { "subject": "OS", "book": "Operating System Concepts - Galvin" },
+        { "subject": "Computer Networks", "book": "Computer Networks - Tanenbaum" },
+        { "subject": "Algorithms", "book": "Introduction to Algorithms - CLRS" }
+      ]
+    },
+    "IT": {
+      "popularSubjects": ["Networking", "Cloud Computing", "Cybersecurity", "Web Technologies", "DBMS"],
+      "recommendedBooks": [
+        { "subject": "Networking", "book": "Computer Networks - Forouzan" },
+        { "subject": "Cloud Computing", "book": "Cloud Computing - Buyya" },
+        { "subject": "Cybersecurity", "book": "Network Security - Stallings" }
+      ]
+    },
+    "ECE": {
+      "popularSubjects": ["Analog Electronics", "Digital Electronics", "Communication Systems", "VLSI", "Signals & Systems"],
+      "recommendedBooks": [
+        { "subject": "Analog Electronics", "book": "Electronic Devices & Circuits - Boylestad" },
+        { "subject": "Digital Electronics", "book": "Digital Design - Morris Mano" },
+        { "subject": "Communication Systems", "book": "Communication Systems - Haykin" }
+      ]
+    },
+    "ME": {
+      "popularSubjects": ["Thermodynamics", "Fluid Mechanics", "Strength of Materials", "Machine Design", "Heat Transfer"],
+      "recommendedBooks": [
+        { "subject": "Thermodynamics", "book": "Engineering Thermodynamics - Nag" },
+        { "subject": "Fluid Mechanics", "book": "Fluid Mechanics - Frank White" },
+        { "subject": "Strength of Materials", "book": "Strength of Materials - Sadhu Singh" }
+      ]
+    },
+    "MCA": {
+      "popularSubjects": ["Java", "DBMS", "Python", "Machine Learning", "Web Technologies"],
+      "recommendedBooks": [
+        { "subject": "Java", "book": "Head First Java - Sierra & Bates" },
+        { "subject": "Python", "book": "Python Crash Course - Eric Matthes" },
+        { "subject": "Machine Learning", "book": "Hands-On ML - Aurélien Géron" }
+      ]
+    },
+    "MBA": {
+      "popularSubjects": ["Marketing Management", "Financial Management", "HRM", "Strategic Management"],
+      "recommendedBooks": [
+        { "subject": "Marketing", "book": "Marketing Management - Philip Kotler" },
+        { "subject": "Finance", "book": "Financial Management - Prasanna Chandra" },
+        { "subject": "HRM", "book": "Human Resource Management - Gary Dessler" }
+      ]
+    }
+  },
+  "contact": "For missing notes or faculty uploads, contact your department coordinator or class representative."
+}

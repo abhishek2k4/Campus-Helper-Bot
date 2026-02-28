@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "title": "Annual Tech Fest — BYTE 2026",
+    "type": "Technical",
+    "date": "15–17 March 2026",
+    "venue": "College Auditorium & Grounds",
+    "description": "BIT Durg's flagship annual tech fest featuring hackathons, coding contests, robotics, paper presentations, and project expos. Open to all engineering students.",
+    "events": ["Hackathon (24hr)", "Code Wars", "Robo Race", "Project Expo", "Tech Quiz", "Paper Presentation"],
+    "registration": "Open till 10 March at the Student Affairs office or online portal",
+    "prizes": "Total prize pool of ₹2,00,000",
+    "contact": "techfest@bitdurg.ac.in"
+  },
+  {
+    "id": 2,
+    "title": "Cultural Fest — RANG 2026",
+    "type": "Cultural",
+    "date": "28 February – 1 March 2026",
+    "venue": "College Open Ground",
+    "description": "Annual cultural festival with music, dance, drama, fashion show, and various art competitions.",
+    "events": ["Solo Singing", "Group Dance", "Street Play", "Fashion Show", "Photography Contest", "Debate"],
+    "registration": "Contact Student Affairs office or your class representative",
+    "prizes": "Total prize pool of ₹1,00,000",
+    "contact": "culturalclub@bitdurg.ac.in"
+  },
+  {
+    "id": 3,
+    "title": "Guest Lecture — AI & Future of Work",
+    "type": "Academic",
+    "date": "25 February 2026",
+    "time": "10:00 AM",
+    "venue": "Seminar Hall, 1st Floor",
+    "speaker": "Mr. Rahul Kapoor, Senior Engineer, Google India",
+    "description": "A talk on Artificial Intelligence, Machine Learning, and how they are reshaping the future of the IT industry.",
+    "eligibility": "CSE, IT, MCA students (other branches welcome)",
+    "registration": "Free — no registration required"
+  },
+  {
+    "id": 4,
+    "title": "Sports Day 2026",
+    "type": "Sports",
+    "date": "10 March 2026",
+    "venue": "College Sports Ground",
+    "description": "Annual sports day with competitions in cricket, basketball, athletics, badminton, and volleyball.",
+    "events": ["100m, 200m, 400m Run", "Cricket Tournament", "Basketball", "Badminton", "Volleyball", "Tug of War"],
+    "registration": "Register at the Sports office by 5 March",
+    "contact": "sports@bitdurg.ac.in"
+  },
+  {
+    "id": 5,
+    "title": "Workshop — Full Stack Web Development",
+    "type": "Workshop",
+    "date": "20–21 February 2026",
+    "time": "9:00 AM – 4:00 PM",
+    "venue": "IT Department Lab",
+    "description": "2-day hands-on workshop on React, Node.js, and MongoDB. Certificates will be provided.",
+    "eligibility": "CSE, IT, MCA (2nd year and above)",
+    "registration": "₹200 registration fee. Contact IT Department.",
+    "contact": "it.dept@bitdurg.ac.in"
+  },
+  {
+    "id": 6,
+    "title": "Entrepreneurship Conclave",
+    "type": "Academic",
+    "date": "5 March 2026",
+    "time": "11:00 AM",
+    "venue": "MBA Department Seminar Hall",
+    "description": "Panel discussion with successful entrepreneurs and startup founders. Learn about startup culture, funding, and idea validation.",
+    "eligibility": "MBA, MCA, and final year students of all branches",
+    "registration": "Free — register at the MBA Department office"
+  }
+]

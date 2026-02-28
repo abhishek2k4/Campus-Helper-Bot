@@ -1,0 +1,31 @@
+{
+  "CSE": [
+    { "name": "Dr. Rajesh Kumar", "designation": "HOD & Professor", "subject": "Data Structures, Algorithms", "cabin": "Room 201", "email": "rajesh.kumar@college.edu", "phone": "9876540001" },
+    { "name": "Prof. Priya Sharma", "designation": "Associate Professor", "subject": "DBMS, Software Engineering", "cabin": "Room 202", "email": "priya.sharma@college.edu", "phone": "9876540002" },
+    { "name": "Prof. Amit Verma", "designation": "Assistant Professor", "subject": "Operating Systems, Networks", "cabin": "Room 203", "email": "amit.verma@college.edu", "phone": "9876540003" },
+    { "name": "Prof. Sneha Patel", "designation": "Assistant Professor", "subject": "Web Development, Java", "cabin": "Room 204", "email": "sneha.patel@college.edu", "phone": "9876540004" },
+    { "name": "Prof. Rohit Mishra", "designation": "Assistant Professor", "subject": "C Programming, TOC", "cabin": "Room 205", "email": "rohit.mishra@college.edu", "phone": "9876540005" }
+  ],
+  "IT": [
+    { "name": "Dr. Sunita Agarwal", "designation": "HOD & Professor", "subject": "Cloud Computing, Networking", "cabin": "Room 210", "email": "sunita.agarwal@college.edu", "phone": "9876540010" },
+    { "name": "Prof. Vikram Singh", "designation": "Associate Professor", "subject": "Cybersecurity, Linux", "cabin": "Room 211", "email": "vikram.singh@college.edu", "phone": "9876540011" },
+    { "name": "Prof. Neha Joshi", "designation": "Assistant Professor", "subject": "Mobile App Dev, Web Tech", "cabin": "Room 212", "email": "neha.joshi@college.edu", "phone": "9876540012" },
+    { "name": "Prof. Deepak Rao", "designation": "Assistant Professor", "subject": "Software Testing, DBMS", "cabin": "Room 213", "email": "deepak.rao@college.edu", "phone": "9876540013" }
+  ],
+  "ECE": [
+    { "name": "Dr. Anil Tiwari", "designation": "HOD & Professor", "subject": "VLSI Design, Communication Systems", "cabin": "Room 220", "email": "anil.tiwari@college.edu", "phone": "9876540020" },
+    { "name": "Prof. Kavita Gupta", "designation": "Associate Professor", "subject": "Analog Electronics, Signals", "cabin": "Room 221", "email": "kavita.gupta@college.edu", "phone": "9876540021" },
+    { "name": "Prof. Suresh Nair", "designation": "Assistant Professor", "subject": "Microprocessors, Control Systems", "cabin": "Room 222", "email": "suresh.nair@college.edu", "phone": "9876540022" },
+    { "name": "Prof. Meena Pillai", "designation": "Assistant Professor", "subject": "Digital Electronics, Electromagnetics", "cabin": "Room 223", "email": "meena.pillai@college.edu", "phone": "9876540023" }
+  ],
+  "MCA": [
+    { "name": "Dr. Pooja Saxena", "designation": "HOD & Professor", "subject": "Java, Software Engineering", "cabin": "Room 230", "email": "pooja.saxena@college.edu", "phone": "9876540030" },
+    { "name": "Prof. Alok Pandey", "designation": "Associate Professor", "subject": "DBMS, Computer Networks", "cabin": "Room 231", "email": "alok.pandey@college.edu", "phone": "9876540031" },
+    { "name": "Prof. Ritu Chaudhary", "designation": "Assistant Professor", "subject": "Web Technologies, OS", "cabin": "Room 232", "email": "ritu.chaudhary@college.edu", "phone": "9876540032" }
+  ],
+  "MBA": [
+    { "name": "Dr. Sanjay Mehta", "designation": "HOD & Professor", "subject": "Marketing Management, Strategy", "cabin": "Room 240", "email": "sanjay.mehta@college.edu", "phone": "9876540040" },
+    { "name": "Prof. Anita Desai", "designation": "Associate Professor", "subject": "Financial Management, Accounting", "cabin": "Room 241", "email": "anita.desai@college.edu", "phone": "9876540041" },
+    { "name": "Prof. Ramesh Iyer", "designation": "Assistant Professor", "subject": "HRM, Business Communication", "cabin": "Room 242", "email": "ramesh.iyer@college.edu", "phone": "9876540042" }
+  ]
+}

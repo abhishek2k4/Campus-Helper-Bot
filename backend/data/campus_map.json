@@ -1,0 +1,50 @@
+{
+  "campusArea": "25 acres",
+  "address": "BIT Durg, GEC Campus, Sejbahar, Raipur Road, Durg, Chhattisgarh - 491001",
+  "landmarks": {
+    "mainGate": "Main entrance on Raipur Road. Security cabin at gate.",
+    "adminBlock": "First building after main gate. Houses Principal, HODs, Accounts, and Admin offices.",
+    "academicBlock": "Central building. All classrooms for CSE, IT, ECE, ME on respective floors.",
+    "mbaBlock": "Separate block to the left of main building. MBA and MCA departments.",
+    "library": "Ground floor, Academic Block. Enter from the left side entrance.",
+    "canteen": "Near main entrance, right side. Open 8 AM – 6 PM.",
+    "auditorium": "Behind the Academic Block. Capacity: 500 students.",
+    "sportsGround": "To the right of the campus. Cricket ground, basketball court.",
+    "gym": "Ground floor, Sports Block. Open 6 AM – 8 PM.",
+    "hostelBlock": "Boys hostel (Block A & B) at the back of campus. Girls hostel (Block C) separate entrance.",
+    "medicalRoom": "Room 005, Ground Floor, Admin Block. Open 9 AM – 5 PM.",
+    "nccNssOffice": "Room 108, Admin Block."
+  },
+  "floors": {
+    "AdminBlock": {
+      "Ground": ["Reception", "Principal Office (Room 001)", "Medical Room (Room 005)", "Security Office"],
+      "1st": ["Exam Cell (Room 101)", "Admission Office (Room 102)", "Accounts (Room 103)", "Exam Controller (Room 104)", "NCC/NSS Office (Room 108)"],
+      "2nd": ["Principal Office", "HOD Cabins", "Placement Cell (Room 203)", "Conference Room"]
+    },
+    "AcademicBlock": {
+      "Ground": ["Library", "IT Lab 201", "IT Lab 202", "IT Lab 203"],
+      "1st": ["CSE Classrooms", "CSE Lab 101", "CSE Lab 102", "CSE Lab 103", "CSE Lab 104", "Seminar Hall"],
+      "2nd": ["ECE Classrooms", "ECE Lab 301", "ECE Lab 302", "ECE Lab 303", "ECE Lab 304"],
+      "3rd": ["ME Classrooms", "ME Workshop", "ME Lab 401", "ME Lab 402", "ME Lab 403"]
+    },
+    "MBABlock": {
+      "Ground": ["MBA Computer Lab 601", "MBA Seminar Hall"],
+      "1st": ["MCA Classrooms", "MCA Lab 501"],
+      "2nd": ["MBA Classrooms", "Faculty Cabins"]
+    }
+  },
+  "distances": {
+    "MainGate_to_AdminBlock": "100m",
+    "AdminBlock_to_AcademicBlock": "150m",
+    "AcademicBlock_to_Library": "50m (same building)",
+    "AcademicBlock_to_Canteen": "200m",
+    "AcademicBlock_to_Hostel": "300m",
+    "AcademicBlock_to_SportsGround": "250m"
+  },
+  "nearbyPlaces": [
+    { "name": "Durg Railway Station", "distance": "5 km", "transport": "Auto/Cab available" },
+    { "name": "Bhilai Steel Plant", "distance": "8 km" },
+    { "name": "City Mall Durg", "distance": "3 km" },
+    { "name": "AIIMS Raipur", "distance": "25 km" }
+  ]
+}

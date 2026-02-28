@@ -1,0 +1,84 @@
+[
+  {
+    "name": "CodeCraft Club",
+    "category": "Technical",
+    "description": "A coding and competitive programming club for students interested in DSA, open source, and hackathons.",
+    "activities": ["Weekly coding contests", "LeetCode sessions", "Hackathon preparation", "Open source contributions"],
+    "president": "Arjun Sharma (CSE, 3rd Year)",
+    "faculty_advisor": "Prof. Amit Verma",
+    "meeting": "Every Saturday, 4 PM, Lab 103",
+    "contact": "codecraft@bitdurg.ac.in",
+    "instagram": "@codecraft_bitdurg"
+  },
+  {
+    "name": "Robotics & IoT Club",
+    "category": "Technical",
+    "description": "Focused on building robots, drones, and IoT projects. Participates in national robotics competitions.",
+    "activities": ["Robot building workshops", "IoT project demos", "National competition participation", "Arduino/Raspberry Pi sessions"],
+    "president": "Kavya Patel (ECE, 3rd Year)",
+    "faculty_advisor": "Prof. Suresh Nair",
+    "meeting": "Every Friday, 3 PM, ECE Lab 302",
+    "contact": "robotics@bitdurg.ac.in"
+  },
+  {
+    "name": "Entrepreneurship Cell (E-Cell)",
+    "category": "Professional",
+    "description": "Promotes entrepreneurial thinking among students. Organizes startup pitches, mentorship sessions, and business plan competitions.",
+    "activities": ["Startup pitch events", "Mentorship from alumni entrepreneurs", "Business plan competition", "Industry visits"],
+    "president": "Priya Agrawal (MBA, 1st Year)",
+    "faculty_advisor": "Dr. Sanjay Mehta",
+    "meeting": "Every Wednesday, 5 PM, MBA Seminar Hall",
+    "contact": "ecell@bitdurg.ac.in"
+  },
+  {
+    "name": "Cultural Club",
+    "category": "Cultural",
+    "description": "Organizes all cultural events including music, dance, drama, and art on campus.",
+    "activities": ["Annual cultural fest (RANG)", "Talent show", "Freshers party", "Farewell event"],
+    "president": "Sneha Verma (IT, 3rd Year)",
+    "faculty_advisor": "Prof. Neha Joshi",
+    "meeting": "Every Tuesday, 5 PM, Auditorium",
+    "contact": "culturalclub@bitdurg.ac.in"
+  },
+  {
+    "name": "Photography & Media Club",
+    "category": "Creative",
+    "description": "For students passionate about photography, videography, and digital media. Covers all college events.",
+    "activities": ["Photography workshops", "Event coverage", "Photo walks", "Short film making"],
+    "president": "Rohan Gupta (CSE, 2nd Year)",
+    "faculty_advisor": "Prof. Priya Sharma",
+    "meeting": "Every Thursday, 4 PM, Room 205",
+    "contact": "media@bitdurg.ac.in",
+    "instagram": "@bits_lens"
+  },
+  {
+    "name": "Sports Club",
+    "category": "Sports",
+    "description": "Manages all sports activities, inter-college tournaments, and annual sports day.",
+    "activities": ["Annual Sports Day", "Inter-college cricket & basketball", "Badminton & TT tournaments", "Gym access coordination"],
+    "president": "Vikram Yadav (ME, 3rd Year)",
+    "faculty_advisor": "Physical Education Dept.",
+    "meeting": "Every Monday, 5 PM, Sports Office",
+    "contact": "sports@bitdurg.ac.in"
+  },
+  {
+    "name": "IEEE Student Chapter",
+    "category": "Technical",
+    "description": "Official IEEE student branch at BIT Durg. Provides access to IEEE resources, workshops, and conferences.",
+    "activities": ["Technical paper writing", "IEEE conference participation", "Expert talks", "Research workshops"],
+    "president": "Aditya Singh (ECE, 4th Year)",
+    "faculty_advisor": "Dr. Anil Tiwari",
+    "meeting": "Every alternate Saturday, 11 AM, Seminar Hall",
+    "contact": "ieee@bitdurg.ac.in"
+  },
+  {
+    "name": "Literary & Debate Club",
+    "category": "Cultural",
+    "description": "For students interested in public speaking, debates, creative writing, and quizzes.",
+    "activities": ["Inter-college debate competitions", "Creative writing contest", "Quiz nights", "Spell bee events"],
+    "president": "Meera Sinha (MBA, 2nd Year)",
+    "faculty_advisor": "English Department",
+    "meeting": "Every Friday, 4 PM, Room 110",
+    "contact": "literary@bitdurg.ac.in"
+  }
+]

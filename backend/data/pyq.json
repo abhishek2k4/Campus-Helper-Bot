@@ -1,0 +1,85 @@
+{
+  "info": "Previous Year Question Papers (PYQs) help students understand exam patterns and frequently asked topics.",
+  "accessMethods": [
+    "College Portal → Academics → PYQ Section",
+    "Department Library (physical copies available)",
+    "Class Representative's shared Google Drive",
+    "Department Notice Board for newly uploaded PYQs"
+  ],
+  "byBranch": {
+    "CSE": {
+      "availableYears": "2019–2024",
+      "subjects": [
+        { "name": "Data Structures", "sem": 2, "availableYears": ["2021", "2022", "2023", "2024"], "driveLink": "Available on portal" },
+        { "name": "DBMS", "sem": 3, "availableYears": ["2020", "2021", "2022", "2023", "2024"], "driveLink": "Available on portal" },
+        { "name": "Operating Systems", "sem": 3, "availableYears": ["2020", "2021", "2022", "2023", "2024"], "driveLink": "Available on portal" },
+        { "name": "Computer Networks", "sem": 3, "availableYears": ["2021", "2022", "2023", "2024"], "driveLink": "Available on portal" },
+        { "name": "TOC", "sem": 4, "availableYears": ["2021", "2022", "2023", "2024"], "driveLink": "Available on portal" },
+        { "name": "Software Engineering", "sem": 4, "availableYears": ["2022", "2023", "2024"], "driveLink": "Available on portal" },
+        { "name": "Algorithms", "sem": 4, "availableYears": ["2021", "2022", "2023", "2024"], "driveLink": "Available on portal" }
+      ]
+    },
+    "IT": {
+      "availableYears": "2020–2024",
+      "subjects": [
+        { "name": "Networking", "sem": 2, "availableYears": ["2021", "2022", "2023", "2024"] },
+        { "name": "DBMS", "sem": 3, "availableYears": ["2021", "2022", "2023", "2024"] },
+        { "name": "Cloud Computing", "sem": 4, "availableYears": ["2022", "2023", "2024"] },
+        { "name": "Cybersecurity", "sem": 4, "availableYears": ["2022", "2023", "2024"] },
+        { "name": "Software Testing", "sem": 4, "availableYears": ["2022", "2023", "2024"] }
+      ]
+    },
+    "ECE": {
+      "availableYears": "2019–2024",
+      "subjects": [
+        { "name": "Analog Electronics", "sem": 3, "availableYears": ["2020", "2021", "2022", "2023", "2024"] },
+        { "name": "Digital Electronics", "sem": 3, "availableYears": ["2020", "2021", "2022", "2023", "2024"] },
+        { "name": "Communication Systems", "sem": 4, "availableYears": ["2021", "2022", "2023", "2024"] },
+        { "name": "Microprocessors", "sem": 4, "availableYears": ["2021", "2022", "2023", "2024"] },
+        { "name": "VLSI Design", "sem": 4, "availableYears": ["2022", "2023", "2024"] }
+      ]
+    },
+    "ME": {
+      "availableYears": "2019–2024",
+      "subjects": [
+        { "name": "Thermodynamics", "sem": 2, "availableYears": ["2020", "2021", "2022", "2023", "2024"] },
+        { "name": "Fluid Mechanics", "sem": 3, "availableYears": ["2020", "2021", "2022", "2023", "2024"] },
+        { "name": "Strength of Materials", "sem": 3, "availableYears": ["2021", "2022", "2023", "2024"] },
+        { "name": "Machine Design", "sem": 4, "availableYears": ["2021", "2022", "2023", "2024"] },
+        { "name": "Heat Transfer", "sem": 4, "availableYears": ["2022", "2023", "2024"] }
+      ]
+    },
+    "MCA": {
+      "availableYears": "2020–2024",
+      "subjects": [
+        { "name": "Java Programming", "sem": 2, "availableYears": ["2021", "2022", "2023", "2024"] },
+        { "name": "DBMS", "sem": 1, "availableYears": ["2021", "2022", "2023", "2024"] },
+        { "name": "Computer Networks", "sem": 2, "availableYears": ["2022", "2023", "2024"] }
+      ]
+    },
+    "MBA": {
+      "availableYears": "2020–2024",
+      "subjects": [
+        { "name": "Marketing Management", "sem": 2, "availableYears": ["2021", "2022", "2023", "2024"] },
+        { "name": "Financial Management", "sem": 2, "availableYears": ["2021", "2022", "2023", "2024"] },
+        { "name": "HRM", "sem": 2, "availableYears": ["2022", "2023", "2024"] }
+      ]
+    }
+  },
+  "examPattern": {
+    "BE_ME": {
+      "totalMarks": 100,
+      "theory": "70 marks (End Sem) + 30 marks (Internal)",
+      "sections": "Section A (Short Q) + Section B (Long Q)",
+      "duration": "3 hours",
+      "passingMarks": "40 out of 100"
+    },
+    "MBA_MCA": {
+      "totalMarks": 100,
+      "theory": "70 marks (End Sem) + 30 marks (Internal)",
+      "duration": "3 hours",
+      "passingMarks": "40 out of 100"
+    }
+  },
+  "contact": "For PYQs not available on portal, contact your department library or HOD office."
+}

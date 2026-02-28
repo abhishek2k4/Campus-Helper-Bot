@@ -1,0 +1,140 @@
+{
+  "CSE": {
+    "1": {
+      "Monday":    ["Mathematics-I", "Physics", "English", "C Programming", "Sports"],
+      "Tuesday":   ["C Programming", "Mathematics-I", "Physics Lab", "Physics Lab", "Library"],
+      "Wednesday": ["English", "C Programming", "Mathematics-I", "EVS", "Sports"],
+      "Thursday":  ["Physics", "English", "C Programming Lab", "C Programming Lab", "Mentoring"],
+      "Friday":    ["Mathematics-I", "EVS", "English", "Physics", "C Programming"],
+      "Saturday":  ["C Programming Lab", "C Programming Lab", "Mathematics-I", "English", "-"]
+    },
+    "2": {
+      "Monday":    ["Mathematics-II", "Data Structures", "Digital Electronics", "OOP with Java", "Sports"],
+      "Tuesday":   ["Data Structures", "Mathematics-II", "DS Lab", "DS Lab", "Library"],
+      "Wednesday": ["OOP with Java", "Digital Electronics", "Mathematics-II", "EVS", "Sports"],
+      "Thursday":  ["Digital Electronics", "OOP with Java", "Java Lab", "Java Lab", "Mentoring"],
+      "Friday":    ["Mathematics-II", "EVS", "Data Structures", "Digital Electronics", "OOP with Java"],
+      "Saturday":  ["Java Lab", "Java Lab", "Mathematics-II", "Data Structures", "-"]
+    },
+    "3": {
+      "Monday":    ["DBMS", "OS", "Computer Networks", "Discrete Mathematics", "Sports"],
+      "Tuesday":   ["OS", "DBMS", "DBMS Lab", "DBMS Lab", "Library"],
+      "Wednesday": ["Computer Networks", "Discrete Mathematics", "OS", "DBMS", "Sports"],
+      "Thursday":  ["Discrete Mathematics", "Computer Networks", "OS Lab", "OS Lab", "Mentoring"],
+      "Friday":    ["DBMS", "OS", "Computer Networks", "Discrete Mathematics", "DBMS"],
+      "Saturday":  ["DBMS Lab", "DBMS Lab", "OS", "Computer Networks", "-"]
+    },
+    "4": {
+      "Monday":    ["Software Engineering", "TOC", "Computer Architecture", "Web Development", "Sports"],
+      "Tuesday":   ["TOC", "Software Engineering", "Web Dev Lab", "Web Dev Lab", "Library"],
+      "Wednesday": ["Computer Architecture", "Web Development", "Software Engineering", "TOC", "Sports"],
+      "Thursday":  ["Web Development", "Computer Architecture", "SE Lab", "SE Lab", "Mentoring"],
+      "Friday":    ["Software Engineering", "TOC", "Computer Architecture", "Web Development", "SE"],
+      "Saturday":  ["Web Dev Lab", "Web Dev Lab", "Software Engineering", "TOC", "-"]
+    }
+  },
+  "IT": {
+    "1": {
+      "Monday":    ["Mathematics-I", "Physics", "English", "IT Fundamentals", "Sports"],
+      "Tuesday":   ["IT Fundamentals", "Mathematics-I", "Physics Lab", "Physics Lab", "Library"],
+      "Wednesday": ["English", "IT Fundamentals", "Mathematics-I", "EVS", "Sports"],
+      "Thursday":  ["Physics", "English", "IT Lab", "IT Lab", "Mentoring"],
+      "Friday":    ["Mathematics-I", "EVS", "English", "Physics", "IT Fundamentals"],
+      "Saturday":  ["IT Lab", "IT Lab", "Mathematics-I", "English", "-"]
+    },
+    "2": {
+      "Monday":    ["Mathematics-II", "Data Structures", "Networking Basics", "OOP with Java", "Sports"],
+      "Tuesday":   ["Data Structures", "Mathematics-II", "DS Lab", "DS Lab", "Library"],
+      "Wednesday": ["OOP with Java", "Networking Basics", "Mathematics-II", "EVS", "Sports"],
+      "Thursday":  ["Networking Basics", "OOP with Java", "Java Lab", "Java Lab", "Mentoring"],
+      "Friday":    ["Mathematics-II", "EVS", "Data Structures", "Networking Basics", "OOP with Java"],
+      "Saturday":  ["Java Lab", "Java Lab", "Mathematics-II", "Data Structures", "-"]
+    },
+    "3": {
+      "Monday":    ["DBMS", "Linux Administration", "Web Technologies", "Statistics", "Sports"],
+      "Tuesday":   ["Linux Administration", "DBMS", "DBMS Lab", "DBMS Lab", "Library"],
+      "Wednesday": ["Web Technologies", "Statistics", "Linux Lab", "Linux Lab", "Sports"],
+      "Thursday":  ["Statistics", "Web Technologies", "Web Lab", "Web Lab", "Mentoring"],
+      "Friday":    ["DBMS", "Linux Administration", "Web Technologies", "Statistics", "DBMS"],
+      "Saturday":  ["Web Lab", "Web Lab", "Linux Administration", "DBMS", "-"]
+    },
+    "4": {
+      "Monday":    ["Cloud Computing", "Cybersecurity", "Mobile App Dev", "Software Testing", "Sports"],
+      "Tuesday":   ["Cybersecurity", "Cloud Computing", "Mobile Lab", "Mobile Lab", "Library"],
+      "Wednesday": ["Mobile App Dev", "Software Testing", "Cloud Lab", "Cloud Lab", "Sports"],
+      "Thursday":  ["Software Testing", "Mobile App Dev", "Testing Lab", "Testing Lab", "Mentoring"],
+      "Friday":    ["Cloud Computing", "Cybersecurity", "Mobile App Dev", "Software Testing", "Cloud"],
+      "Saturday":  ["Mobile Lab", "Mobile Lab", "Cloud Computing", "Cybersecurity", "-"]
+    }
+  },
+  "ECE": {
+    "1": {
+      "Monday":    ["Mathematics-I", "Physics", "English", "Basic Electronics", "Sports"],
+      "Tuesday":   ["Basic Electronics", "Mathematics-I", "Electronics Lab", "Electronics Lab", "Library"],
+      "Wednesday": ["English", "Basic Electronics", "Mathematics-I", "EVS", "Sports"],
+      "Thursday":  ["Physics", "English", "Physics Lab", "Physics Lab", "Mentoring"],
+      "Friday":    ["Mathematics-I", "EVS", "English", "Physics", "Basic Electronics"],
+      "Saturday":  ["Electronics Lab", "Electronics Lab", "Mathematics-I", "English", "-"]
+    },
+    "2": {
+      "Monday":    ["Mathematics-II", "Circuit Theory", "Electronic Devices", "Programming in C", "Sports"],
+      "Tuesday":   ["Circuit Theory", "Mathematics-II", "Circuit Lab", "Circuit Lab", "Library"],
+      "Wednesday": ["Electronic Devices", "Programming in C", "Mathematics-II", "EVS", "Sports"],
+      "Thursday":  ["Programming in C", "Electronic Devices", "C Lab", "C Lab", "Mentoring"],
+      "Friday":    ["Mathematics-II", "EVS", "Circuit Theory", "Electronic Devices", "Programming in C"],
+      "Saturday":  ["C Lab", "C Lab", "Mathematics-II", "Circuit Theory", "-"]
+    },
+    "3": {
+      "Monday":    ["Signals & Systems", "Analog Electronics", "Digital Electronics", "Electromagnetics", "Sports"],
+      "Tuesday":   ["Analog Electronics", "Signals & Systems", "Analog Lab", "Analog Lab", "Library"],
+      "Wednesday": ["Digital Electronics", "Electromagnetics", "Signals Lab", "Signals Lab", "Sports"],
+      "Thursday":  ["Electromagnetics", "Digital Electronics", "Digital Lab", "Digital Lab", "Mentoring"],
+      "Friday":    ["Signals & Systems", "Analog Electronics", "Digital Electronics", "Electromagnetics", "Signals"],
+      "Saturday":  ["Digital Lab", "Digital Lab", "Analog Electronics", "Signals & Systems", "-"]
+    },
+    "4": {
+      "Monday":    ["Communication Systems", "Microprocessors", "VLSI Design", "Control Systems", "Sports"],
+      "Tuesday":   ["Microprocessors", "Communication Systems", "Micro Lab", "Micro Lab", "Library"],
+      "Wednesday": ["VLSI Design", "Control Systems", "Comm Lab", "Comm Lab", "Sports"],
+      "Thursday":  ["Control Systems", "VLSI Design", "VLSI Lab", "VLSI Lab", "Mentoring"],
+      "Friday":    ["Communication Systems", "Microprocessors", "VLSI Design", "Control Systems", "Comm"],
+      "Saturday":  ["Micro Lab", "Micro Lab", "Communication Systems", "VLSI Design", "-"]
+    }
+  },
+  "MCA": {
+    "1": {
+      "Monday":    ["Discrete Mathematics", "C++ Programming", "DBMS", "Software Engineering", "Sports"],
+      "Tuesday":   ["C++ Programming", "Discrete Mathematics", "C++ Lab", "C++ Lab", "Library"],
+      "Wednesday": ["DBMS", "Software Engineering", "Discrete Mathematics", "C++ Programming", "Sports"],
+      "Thursday":  ["Software Engineering", "DBMS", "DBMS Lab", "DBMS Lab", "Mentoring"],
+      "Friday":    ["Discrete Mathematics", "C++ Programming", "DBMS", "Software Engineering", "Discrete"],
+      "Saturday":  ["DBMS Lab", "DBMS Lab", "C++ Programming", "Discrete Mathematics", "-"]
+    },
+    "2": {
+      "Monday":    ["Java Programming", "Computer Networks", "OS", "Web Technologies", "Sports"],
+      "Tuesday":   ["Computer Networks", "Java Programming", "Java Lab", "Java Lab", "Library"],
+      "Wednesday": ["OS", "Web Technologies", "Network Lab", "Network Lab", "Sports"],
+      "Thursday":  ["Web Technologies", "OS", "OS Lab", "OS Lab", "Mentoring"],
+      "Friday":    ["Java Programming", "Computer Networks", "OS", "Web Technologies", "Java"],
+      "Saturday":  ["Java Lab", "Java Lab", "Computer Networks", "OS", "-"]
+    }
+  },
+  "MBA": {
+    "1": {
+      "Monday":    ["Principles of Management", "Business Communication", "Managerial Economics", "Accounting", "Sports"],
+      "Tuesday":   ["Business Communication", "Principles of Management", "Case Study", "Case Study", "Library"],
+      "Wednesday": ["Managerial Economics", "Accounting", "Principles of Management", "Business Communication", "Sports"],
+      "Thursday":  ["Accounting", "Managerial Economics", "Workshop", "Workshop", "Mentoring"],
+      "Friday":    ["Principles of Management", "Business Communication", "Managerial Economics", "Accounting", "Mgmt"],
+      "Saturday":  ["Workshop", "Workshop", "Managerial Economics", "Business Communication", "-"]
+    },
+    "2": {
+      "Monday":    ["Marketing Management", "Financial Management", "HRM", "Business Research", "Sports"],
+      "Tuesday":   ["Financial Management", "Marketing Management", "Case Study", "Case Study", "Library"],
+      "Wednesday": ["HRM", "Business Research", "Financial Management", "Marketing Management", "Sports"],
+      "Thursday":  ["Business Research", "HRM", "Workshop", "Workshop", "Mentoring"],
+      "Friday":    ["Marketing Management", "Financial Management", "HRM", "Business Research", "Marketing"],
+      "Saturday":  ["Workshop", "Workshop", "Financial Management", "HRM", "-"]
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "CSE": [
+    { "name": "Programming Lab", "room": "Lab 101", "capacity": 40, "software": ["VS Code", "GCC Compiler", "Python 3.x", "Java JDK"], "timing": "9 AM – 5 PM", "incharge": "Prof. Rohit Mishra" },
+    { "name": "DBMS Lab", "room": "Lab 102", "capacity": 40, "software": ["MySQL", "Oracle 11g", "MongoDB"], "timing": "9 AM – 5 PM", "incharge": "Prof. Priya Sharma" },
+    { "name": "Networking Lab", "room": "Lab 103", "capacity": 30, "software": ["Cisco Packet Tracer", "Wireshark", "GNS3"], "timing": "9 AM – 5 PM", "incharge": "Prof. Amit Verma" },
+    { "name": "AI/ML Lab", "room": "Lab 104", "capacity": 30, "software": ["Python", "TensorFlow", "Jupyter Notebook", "Anaconda"], "timing": "9 AM – 5 PM", "incharge": "Prof. Sneha Patel" }
+  ],
+  "IT": [
+    { "name": "Web Development Lab", "room": "Lab 201", "capacity": 40, "software": ["VS Code", "Node.js", "React", "XAMPP"], "timing": "9 AM – 5 PM", "incharge": "Prof. Neha Joshi" },
+    { "name": "Cybersecurity Lab", "room": "Lab 202", "capacity": 30, "software": ["Kali Linux", "Wireshark", "Metasploit", "Nmap"], "timing": "9 AM – 5 PM", "incharge": "Prof. Vikram Singh" },
+    { "name": "Cloud Lab", "room": "Lab 203", "capacity": 30, "software": ["AWS Console", "Docker", "Kubernetes", "Azure Portal"], "timing": "9 AM – 5 PM", "incharge": "Prof. Deepak Rao" }
+  ],
+  "ECE": [
+    { "name": "Electronics Lab", "room": "Lab 301", "capacity": 30, "equipment": ["Oscilloscopes", "Function Generators", "Multimeters", "Breadboards"], "timing": "9 AM – 5 PM", "incharge": "Prof. Meena Pillai" },
+    { "name": "Digital Lab", "room": "Lab 302", "capacity": 30, "equipment": ["Digital Trainer Kits", "Logic Analyzers", "FPGA Boards"], "timing": "9 AM – 5 PM", "incharge": "Prof. Suresh Nair" },
+    { "name": "Communication Lab", "room": "Lab 303", "capacity": 25, "equipment": ["Signal Generators", "Spectrum Analyzers", "AM/FM Trainers"], "timing": "9 AM – 5 PM", "incharge": "Prof. Kavita Gupta" },
+    { "name": "VLSI Lab", "room": "Lab 304", "capacity": 25, "software": ["Cadence", "Xilinx ISE", "ModelSim"], "timing": "9 AM – 5 PM", "incharge": "Dr. Anil Tiwari" }
+  ],
+  "ME": [
+    { "name": "Workshop", "room": "Workshop Block", "capacity": 40, "equipment": ["Lathe Machines", "Milling Machines", "Welding Units", "Drilling Machines"], "timing": "9 AM – 5 PM", "incharge": "Prof. Sunil Yadav" },
+    { "name": "CAD/CAM Lab", "room": "Lab 401", "capacity": 30, "software": ["AutoCAD", "SolidWorks", "ANSYS", "Catia"], "timing": "9 AM – 5 PM", "incharge": "Prof. Rajeev Tiwari" },
+    { "name": "Fluid Mechanics Lab", "room": "Lab 402", "capacity": 25, "equipment": ["Flow Meters", "Bernoulli's Apparatus", "Reynolds Apparatus"], "timing": "9 AM – 5 PM", "incharge": "Prof. Aasha Sahu" },
+    { "name": "Heat Transfer Lab", "room": "Lab 403", "capacity": 25, "equipment": ["Heat Exchangers", "Thermal Conductivity Apparatus", "Radiation Equipment"], "timing": "9 AM – 5 PM", "incharge": "Prof. Dinesh Sharma" }
+  ],
+  "MCA": [
+    { "name": "MCA Computer Lab", "room": "Lab 501", "capacity": 60, "software": ["Eclipse", "NetBeans", "Python", "MySQL", "Android Studio"], "timing": "9 AM – 6 PM", "incharge": "Prof. Ritu Chaudhary" }
+  ],
+  "MBA": [
+    { "name": "MBA Computer Lab", "room": "Lab 601", "capacity": 40, "software": ["MS Office", "Tally ERP", "SPSS", "SAP"], "timing": "9 AM – 5 PM", "incharge": "Prof. Ramesh Iyer" }
+  ],
+  "general": {
+    "rules": [
+      "Students must carry their ID cards to access labs",
+      "Food and drinks are not allowed inside labs",
+      "Handle equipment with care — damage will be charged",
+      "Log in/out register must be signed on every visit",
+      "Lab timings may change during exam season"
+    ],
+    "labInchargeOffice": "Room 110, Academic Block"
+  }
+}
